@@ -1,0 +1,19 @@
+{
+  "name": "nfservice/vtcall",
+  "description": "Biblioteca base para comunicaçao com a API do Vtcall",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Henrique Ernandes",
+          "email": "rebeloehenrique@hotmail.com"
+      }
+  ],
+  "autoload": {
+      "psr-4": {
+          "NFService\\Vtcall\\": "src/"
+      }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
